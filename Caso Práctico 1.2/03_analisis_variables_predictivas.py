@@ -22,7 +22,6 @@ sns.heatmap(
     fmt=".4f"                  # formato de los números (2 decimales)
 )
 
-
 plt.xticks(rotation=45, ha="right")
 plt.yticks(rotation=0)
 
